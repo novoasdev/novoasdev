@@ -1,7 +1,7 @@
 
 ## Hey, I'm Samuel!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Samuel%20Novoa%20Montaña-blue?style=social&logo=Linkedin&logoColor=blue&link=www.linkedin.com/in/samuelnovoa)](www.linkedin.com/in/samuelnovoa)
+[![Linkedin Badge](https://img.shields.io/badge/-Samuel%20Novoa%20Montaña-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/samuelnovoa/)](https://www.linkedin.com/in/samuelnovoa/)
 [![Gmail Badge](https://img.shields.io/badge/-novoas2008-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:novoas2008@gmail.com)](mailto:novoas2008@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/novoasdev?label=Follow&style=social)](https://github.com/novoasdev)
 
